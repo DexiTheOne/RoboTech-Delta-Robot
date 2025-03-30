@@ -1,4 +1,5 @@
 https://devpost.com/software/the-delta-robot
+
 With the advent of high density distribution and fulfillment centers. Chaos storage has proven to be the most effective method of organization, or lack thereof. Items may be stowed at any place inside the warehouse, lowering labor and bookkeeping requirements. However, smart indexing systems must be leveraged to recall and retrieve items efficiently, regardless of how many different items are grouped together. 
 
 This project is a demonstration of a simple yet clever kinematic system, the delta robot. Compared to a traditional robotic arm, the delta robot combines all 3 axes into one end effector, providing higher efficiency and greater agility. 
