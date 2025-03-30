@@ -8,7 +8,7 @@ Now let’s look at the design:
 
 The system is first modeled in CAD. With specific calculations applied to determine the most efficient lengths and arrangements.  
 
-The K26 FPGA also contains an arm processor capable of running standard linux operating systems. Here lies an application that calculates the reverse kinematics to operate the Delta Robot. 
+The KR26 FPGA also contains an arm processor capable of running standard linux operating systems. Here lies an application that calculates the reverse kinematics to operate the Delta Robot. 
 
 Movement commands are then sent to a dedicated real time control board capable of generating time synchronized pulses between all 3 stepper motors, this is critical to ensuring accuracy and safety. 
 
