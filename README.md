@@ -26,4 +26,6 @@ The overall mechanical system has proven to be functional, but could certainly i
 
 Thank you for your interest! 
 
-Built with open source Ubuntu Linux operating system and Klipper Kinematics firmware. 
+Built with open source Xilinx Ubuntu operating system and Klipper Kinematics firmware. 
+https://ubuntu.com/download/amd#kria-k26
+https://github.com/Klipper3d/klipper
