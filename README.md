@@ -24,7 +24,7 @@ Problems that were encountered:
 
 Nothing is ever as easy as it seems, especially when dealing with the kinematics of a Delta Robot. Any misalignment in the construction greatly skews dimensional accuracy and therefore causes very unexpected behaviors. Some manual calibration was needed.  
 
-The overall mechanical system has proven to be functional, but could certainly improve in ways that increase reliability and rigidity.  Of course with a 36 hour time limit and 4 hours of 3D printing, this is the best that I could come up with. 
+The overall mechanical system has proven to be functional, but could certainly improve in ways that increase reliability and rigidity.  Of course, with a 36 hour time limit and 4 hours of 3D printing, this is the best that I could come up with. 
 
 Thank you for your interest! 
 
