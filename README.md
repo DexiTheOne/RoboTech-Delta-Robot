@@ -31,4 +31,5 @@ Thank you for your interest!
 Built with open source Xilinx Ubuntu operating system and Klipper Kinematics firmware. 
 
 https://ubuntu.com/download/amd#kria-k26
+
 https://github.com/Klipper3d/klipper
